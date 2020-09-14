@@ -1,3 +1,3 @@
-function cashRgister(num){
+function checkCashRgister(num){
     
 }

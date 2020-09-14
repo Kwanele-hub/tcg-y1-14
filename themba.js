@@ -1,4 +1,4 @@
-function songRemix(song) {
+function amapianoRemix(song) {
 	return (
 		song
 			.replace(/DUB/g, ' ')

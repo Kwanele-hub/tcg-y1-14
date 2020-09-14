@@ -1,7 +1,7 @@
 function amapianoRemix(song) {
 	return (
 		song
-			.replace(/DUB/g, ' ')
+			.replace(/(DUB)+/gi, ' ')
 			
 	);
 }

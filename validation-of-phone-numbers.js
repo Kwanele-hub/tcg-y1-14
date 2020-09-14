@@ -3,4 +3,4 @@ function phoneNumberCheck(str) {
     return myRegex.test(str);
   }
   
-console.log(phoneNumberCheck("0754673489"))
+console.log(phoneNumberCheck("9857397467"))

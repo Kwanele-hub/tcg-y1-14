@@ -6,3 +6,4 @@ if (str==reversedStr){
 }
 return false
 };
+console.log(isPalindrome("A House, An Aeroplane."))
